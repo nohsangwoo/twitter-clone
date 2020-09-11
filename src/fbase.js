@@ -1,7 +1,7 @@
 import * as firebase from "firebase/app";
 import "firebase/auth";
+import "firebase/firestore";
 
-console.log("asdfasf", process.env.REACT_APP_AUTH_DOMAIN);
 const firebaseConfig = {
   apiKey: process.env.REACT_APP_API_KEY,
   authDomain: process.env.REACT_APP_AUTH_DOMAIN,
@@ -14,6 +14,11 @@ const firebaseConfig = {
 
 firebase.initializeApp(firebaseConfig);
 
+// firebase최상위
 export const firebaseInstance = firebase;
 
+// 인증관리
 export const authService = firebase.auth();
+
+// db  컨트롤
+export const dbService = firebase.firestore();
