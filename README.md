@@ -1,3 +1,5 @@
 #cloning twitter with react and firebase
 
-#1 set up
+deploy
+
+https://nohsangwoo.github.io/twitter-clone
