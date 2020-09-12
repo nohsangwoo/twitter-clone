@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "86cf6b5e41bd15ad46fdac25b5b81fcb",
+    "revision": "c21ad2df52d44012cb05ead393632d69",
     "url": "/twitter-clone/index.html"
   },
   {
-    "revision": "9f9bf131a0e2cf75fc91",
-    "url": "/twitter-clone/static/css/main.9333dc4c.chunk.css"
+    "revision": "0770f00f91e8e538f031",
+    "url": "/twitter-clone/static/css/main.f4065432.chunk.css"
   },
   {
     "revision": "2337cf2b934a8dac0ada",
@@ -16,7 +16,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/twitter-clone/static/js/2.74572f31.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "9f9bf131a0e2cf75fc91",
+    "revision": "0770f00f91e8e538f031",
     "url": "/twitter-clone/static/js/main.0ee9956c.chunk.js"
   },
   {
