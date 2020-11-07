@@ -3,6 +3,7 @@
 ### 프로젝트 계획 및 설명
 > firebase를 사용하여 realtime db변동 구현을 학습
 > firebase를 통한 인증 방법 학습
+> 기본적인 create, delete, update 구현
 
 
 ### deploy by
